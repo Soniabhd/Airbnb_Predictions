@@ -16,5 +16,8 @@ The goal of this project is to scrap Airbnb ads to build a model for predicting 
 
 Install the driver by following the instructions on this site : https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/ <br/>
 
+### Be careful, you may need to change some CLASS_NAME in the code : Airbnb often change them. 
+
+# Predictions
 
 
