@@ -18,6 +18,6 @@ Install the driver by following the instructions on this site : https://www.sele
 
 ### Be careful, you may need to change some CLASS_NAME in the code : Airbnb often change them. 
 
-# Predictions
+# Predictions (in progress..)
 
 
